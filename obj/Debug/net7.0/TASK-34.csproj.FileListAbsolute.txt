@@ -1,0 +1,15 @@
+D:\ST\хочу стать умней\TASK_34\TASK-34\bin\Debug\net7.0\TASK-34.exe
+D:\ST\хочу стать умней\TASK_34\TASK-34\bin\Debug\net7.0\TASK-34.deps.json
+D:\ST\хочу стать умней\TASK_34\TASK-34\bin\Debug\net7.0\TASK-34.runtimeconfig.json
+D:\ST\хочу стать умней\TASK_34\TASK-34\bin\Debug\net7.0\TASK-34.dll
+D:\ST\хочу стать умней\TASK_34\TASK-34\bin\Debug\net7.0\TASK-34.pdb
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.csproj.AssemblyReference.cache
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.GeneratedMSBuildEditorConfig.editorconfig
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.AssemblyInfoInputs.cache
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.AssemblyInfo.cs
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.csproj.CoreCompileInputs.cache
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.dll
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\refint\TASK-34.dll
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.pdb
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\TASK-34.genruntimeconfig.cache
+D:\ST\хочу стать умней\TASK_34\TASK-34\obj\Debug\net7.0\ref\TASK-34.dll
